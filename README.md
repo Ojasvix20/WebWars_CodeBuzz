@@ -1,7 +1,10 @@
 # WebWars_CodeBuzz
+
 Repo for WebWars 2025
+
 Project Title: ChatBot-Ticketing System
 Team Name: CodeBuzz
+
 Member Details: 
 1. Ojasvi Bakshi (Leader)
    Adm. no: 23SCSE1010260
