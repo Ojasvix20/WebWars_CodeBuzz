@@ -14,6 +14,6 @@ Tech Stack Used:
 HTML, CSS & JS.
 Google Translate extension.
 
-Deployment Link: 
+Deployment Link: https://ojasvix20.github.io/WebWars_CodeBuzz/
 
 ***Kindly download the whole repo (zip file then extract) and open the file named "index.html" ***
